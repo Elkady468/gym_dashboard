@@ -1,0 +1,11 @@
+{
+  "name": "FalconGym Admin",
+  "short_name": "GymAdmin",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0D1117",
+  "theme_color": "#00C896",
+  "description": "FalconGym Admin Dashboard",
+  "orientation": "landscape",
+  "icons": []
+}
